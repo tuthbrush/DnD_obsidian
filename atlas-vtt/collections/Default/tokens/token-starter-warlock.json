@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "name": "Warlock",
+    "imagePath": "atlas-vtt/assets/Warlock_1793201758107_41t9vk.webp",
+    "collection": "Default",
+    "tags": [
+      "Class"
+    ],
+    "showRing": true,
+    "type": "token",
+    "id": "token-starter-warlock",
+    "createdAt": 1793201758109,
+    "modifiedAt": 1793201758109,
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Warlock_1793201758107_41t9vk-a0ad1edd.webp"
+  }
+}
