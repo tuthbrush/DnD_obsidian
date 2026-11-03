@@ -1,0 +1,10 @@
+{
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "S - Encoded Fonts",
+    "S - Encoded Icons"
+  ],
+  "interfaceFontFamily": "Atkinson Hyperlegible",
+  "textFontFamily": "Atkinson Hyperlegible",
+  "monospaceFontFamily": "SpaceMono Nerd Font Mono"
+}

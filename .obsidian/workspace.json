@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d29777290097ce8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17d544fb0ee3a0d7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1703f0721182531",
+    "type": "split",
+    "children": [
+      {
+        "id": "4915a2632d993f73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c24bd6a858ed178",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "00ea2cb44e97fde7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "73b43181d14ab117",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.72709274291992
+  },
+  "right": {
+    "id": "5f409eec3888d9cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0917544cfe04d14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6b54c1643eb670e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Story/Selvania/Religioni/Ordine Druidico della Selva Patrona.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e6efa33547d0dcc4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Story/Selvania/Religioni/Ordine Druidico della Selva Patrona.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ed772a4873691611",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e0b130d3af4d9f92",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "74a190cfdc033d9d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Story/Selvania/Religioni/Ordine Druidico della Selva Patrona.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "79198d9f0c2f9790",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "275a7451584465d4",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_d9b9db786868",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 34,
+                    "month": 0,
+                    "year": 1628
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_8998abaad96b"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 481.73828125
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "atlas-vtt:Display image on player view": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "17d544fb0ee3a0d7",
+  "lastOpenFiles": [
+    "Story/Selvania/Religioni/Ordine Druidico della Selva Patrona.md",
+    "Geography/Maps/Religioni.excalidraw.md",
+    "palle.md",
+    "home/spazzolino/Documents/D&D_World",
+    "home/spazzolino/Documents",
+    "home/spazzolino",
+    "home",
+    "Geography/Islands/Tradulia.md",
+    "Geography/Islands/Perania.md",
+    "Geography/Islands/Lunas Tiruli.md",
+    "Geography/Continents/Selvania.md",
+    "Geography/Continents/Solicus.md",
+    "Geography/Continents",
+    "Geography/Maps/Mappa.excalidraw.md",
+    "Miscellaneous/Palel gay.md",
+    "Story/Selvania/Città Libera di Marinidia.md",
+    "Template/Sessione.md",
+    "Template",
+    "Miscellaneous/D.M. stuff.md",
+    "Story/Selvania/Impero della Selva Patrona.md",
+    "Story/Solicus/Lontano Nord/Città-Stato delle Persone Libere di Pergamia.md",
+    "Story/Solicus/Gran Ducato di Malania.md",
+    "Story/Solicus/Giunta Militare dei Credenti di Khan.md",
+    "Story/Solicus/Lontano Nord/Territorio dei Cultisti Liberi.md",
+    "Story/Solicus/Lontano Nord/Repubblica di Salò.md",
+    "Story/Solicus/Lontano Nord/Principato di Feins.md",
+    "Story/Solicus/Lontano Nord/Ducato di Wafordia.md",
+    "Story/Solicus/Lontano Nord/Ducato di Soleria.md",
+    "Story/Solicus/Lontano Nord/Ducato di Pergamia.md",
+    "Story/Solicus/Lontano Nord/Ducato di Partonia.md",
+    "Story/Solicus/Lontano Nord/Ducato di Fordilia.md",
+    "Story/Solicus/Lontano Nord/Ducato di Cleone.md",
+    "Story/Solicus/Religioni",
+    "Story/Selvania/Religioni",
+    "Geography/Islands",
+    "Geography",
+    "Arvileia 2026-10-28-21-52.svg",
+    "atlas-vtt/assets/thumbnails/Occultist_1793201758130_44cyzo-0657ca6c.webp",
+    "atlas-vtt/assets/thumbnails/Assassin_1793201758124_zukrfv-c7e582a3.webp",
+    "atlas-vtt/assets/thumbnails/Knight_1793201758118_458hva-4b04ef32.webp",
+    "atlas-vtt/assets/thumbnails/Wizard_1793201758113_frdl40-20401137.webp",
+    "atlas-vtt/assets/thumbnails/Warlock_1793201758107_41t9vk-a0ad1edd.webp",
+    "atlas-vtt/assets/thumbnails/Rogue_1793201758101_rs3k5a-a73de2dc.webp",
+    "atlas-vtt/assets/thumbnails/Ranger_1793201758095_o2v6fa-b3a205f4.webp",
+    "atlas-vtt/assets/thumbnails/Paladin_1793201758090_b06gl3-f551db41.webp",
+    "atlas-vtt/assets/thumbnails/Cleric_1793201758078_mna45e-2bbc8f88.webp"
+  ]
+}

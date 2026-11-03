@@ -1,0 +1,204 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Sacratis Poliedris",
+      "description": "Calendario nato dall'ordine della selva patrona",
+      "id": "ID_d9b9db786868",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Garr",
+            "id": "ID_8a0aa8d8f9ab"
+          },
+          {
+            "type": "day",
+            "name": "Saltia",
+            "id": "ID_99ca2ae8aada"
+          },
+          {
+            "type": "day",
+            "name": "Thorimia",
+            "id": "ID_5a1b9a39f89a"
+          },
+          {
+            "type": "day",
+            "name": "Creatia",
+            "id": "ID_a83b5b5b082b"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Initialis",
+            "length": 100,
+            "id": "ID_b8896bb969e8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Solinia",
+            "length": 100,
+            "id": "ID_5848ea9a4a98",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Intercalus",
+            "length": 100,
+            "id": "ID_0ad8882abb48",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Lunania",
+            "length": 100,
+            "id": "ID_29998a1b0b5a",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Luna",
+            "cycle": 25,
+            "offset": 0,
+            "faceColor": "#fff",
+            "shadowColor": "#000",
+            "id": "ID_fbb87bfb7819"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [
+          {
+            "id": "ID_8b3a88cad8ea",
+            "type": "era",
+            "name": "Mondiatis",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": true,
+            "date": {
+              "year": null,
+              "month": null,
+              "day": null
+            }
+          },
+          {
+            "id": "ID_3a8a5889fbca",
+            "type": "era",
+            "name": "Vitacus",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": true,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": 2,
+              "month": 0,
+              "day": 1
+            }
+          }
+        ],
+        "padMonths": 1,
+        "padDays": 3
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_39ebabe88bba",
+            "name": "Vitalis",
+            "type": "Periodic",
+            "color": "#37f23a",
+            "duration": 200,
+            "peak": 100,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_3a0a9bf8c818",
+            "name": "Mortilis",
+            "type": "Periodic",
+            "color": "#5ce4ff",
+            "duration": 200,
+            "peak": 100,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          }
+        ],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1051559191,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": ""
+      },
+      "current": {
+        "day": 34,
+        "month": 0,
+        "year": 1628
+      },
+      "events": [],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "DD-MM-YYYY"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_d9b9db786868",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}
